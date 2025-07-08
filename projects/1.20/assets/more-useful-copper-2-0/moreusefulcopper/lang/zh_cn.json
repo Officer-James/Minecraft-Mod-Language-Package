@@ -1,0 +1,23 @@
+{
+  "itemGroup.moreUsefulCopper": "更有用的铜!",
+  "item.moreusefulcopper.copper_axe": "铜斧",
+  "item.moreusefulcopper.copper_hoe": "铜锄",
+  "item.moreusefulcopper.copper_pickaxe": "铜稿",
+  "item.moreusefulcopper.copper_shovel": "铜锹",
+  "item.moreusefulcopper.copper_sword": "铜剑",
+  "item.moreusefulcopper.copper_boots": "铜靴子",
+  "item.moreusefulcopper.copper_leggings": "铜护腿",
+  "item.moreusefulcopper.copper_chestplate": "铜胸甲",
+  "item.moreusefulcopper.copper_helmet": "铜头盔",
+  "item.moreusefulcopper.copper_shears": "铜剪刀",
+  "item.moreusefulcopper.copper_bucket": "铜质桶",
+  "item.moreusefulcopper.copper_water_bucket": "铜质水桶",
+  "item.moreusefulcopper.copper_milk_bucket": "铜质牛奶桶",
+  "item.moreusefulcopper.copper_powder_snow_bucket": "铜质熔岩桶",
+  "item.moreusefulcopper.copper_golem_spawn_egg": "铜傀儡刷怪蛋",
+  "item.moreusefulcopper.copper_horse_armor": "铜马铠",
+  "block.moreusefulcopper.copper_chain": "铜锁链",
+  "block.moreusefulcopper.copper_button": "铜按钮",
+  "block.moreusefulcopper.copper_pressure_plate": "铜质压力板",
+  "entity.moreusefulcopper.copper_golem": "铜傀儡"
+}
